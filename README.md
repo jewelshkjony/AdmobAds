@@ -88,6 +88,24 @@ Load interstitial video ad.
   
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Reward%20interstitial.png"/>
   
-  https://youtu.be/er95UkaB2XE
+## Demo Video: -
 
 [![AdmobAds](http://img.youtube.com/vi/er95UkaB2XE/0.jpg)](http://www.youtube.com/watch?v=er95UkaB2XE)
+
+
+## Extension specifications:
+<img src="https://raw.githubusercontent.com/jewelshkjony/ShakeDetector/main/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(2.22 MB) \
+Version: 21.0.0+\
+Price: $18.75 USD (1500 Taka only for Bangladeshi)\
+Last amendment: 08 Jun 2022\
+Supported builder: Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
+
+### Contact with me ---------------
+Facebook: https://fb.com/jewelshkjony \
+Telegram: https://t.me/jewelshkjony \
+WhatsApp: https://wa.me/8801775668913 \
+Messenger: https://m.me/jewelshkjony
+
+#### Purchase this extension via ---
+TransferWise: https://wise.com/invite/ua/dulald4 \
+bKash/Nagad (Personal): +88 01775 668913
