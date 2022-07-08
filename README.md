@@ -37,20 +37,57 @@ Load this ad when your app is open for the first time.
 ## AdManagerInterstitial
 Load ad manager interstitial ad.
 
-<img src=""/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20interstitial.png"/>
 
-## AdManager
+## AdManagerNative
+Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views. Then use register finish block to show ads in views. You can also use dynamic views to register as NativeAdVew.
 
-
-<img src=""/>
-
-
-## AdManager
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20native.png"/>
 
 
-<img src=""/>
+## AdManagerRewarded
+Load ad manager rewarded ad. Recommend for gaming apps.
 
-## AdManager
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20reward.png"/>
 
+## AdManagerRewardedInterstitial
+Load interstitial video ad.
 
-<img src=""/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20reward%20interstitial.png"/>
+  
+  
+## AdmobAppOpen
+Load this ad when your app is open for the first time.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Appopen.png"/>
+  
+## Admob
+7 types of banner ads available and also you can make custom size banner ads.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Banner.png"/>
+  
+## AdmobInterstitial
+Load short video or static photo or image ad.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Interstitial.png"/>
+  
+## AdmobNative
+Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views. Then use register finish block to show ads in views. You can also use dynamic views to register as NativeAdVew.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Native.png"/>
+  
+  
+## AdmobRewarded
+Load rewarded video ads. Recommend for gaming apps.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Raward.png"/>
+  
+  
+## AdmobRewardedInterstitial
+Load interstitial video ad.
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Reward%20interstitial.png"/>
+  
+  https://youtu.be/er95UkaB2XE
+
+[![AdmobAds](http://img.youtube.com/vi/er95UkaB2XE/0.jpg)](http://www.youtube.com/watch?v=er95UkaB2XE)
