@@ -1,4 +1,4 @@
-# AdmobAds
+# AdmobAds Extension
 A lightweight ads extension for you to monetize your apps with many types of ads.
 
 <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon1.png"/> Admob Ads Extension <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon2.png"/> Monetize Your Apps <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon3.png"/> SDK version [21.0.0] <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon4.png"/>
