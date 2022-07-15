@@ -94,10 +94,10 @@ Load interstitial video ad.
 
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(2.22 MB) \
-Version: 21.0.0+\
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(1.06 MB) \
+Version: 21.0.0\
 Price: $18.75 USD (1500 Taka only for Bangladeshi)\
-Last amendment: 08 Jun 2022\
+Last amendment: 15 Jun 2022\
 Supported builder: Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
 
 ### Contact with me ---------------
