@@ -93,22 +93,17 @@ Load interstitial video ad.
 [![AdmobAds](http://img.youtube.com/vi/er95UkaB2XE/0.jpg)](http://www.youtube.com/watch?v=er95UkaB2XE)
 
 
-## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(1.06 MB) \
-Version: 21.0.0\
-Price: $18.75 USD (1500 Taka only for Bangladeshi)\
-Last amendment: 15 Jun 2022\
-Supported builder: Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
+## 📫 How to reach me: ...
 
-### Contact with me ---------------
-Facebook: https://fb.com/jewelshkjony \
-Telegram: https://t.me/jewelshkjony \
-WhatsApp: https://wa.me/8801775668913 \
-Messenger: https://m.me/jewelshkjony
+<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
 
-#### Purchase this extension via ---
-TransferWise: https://wise.com/invite/ua/dulald4 \
-bKash/Nagad (Personal): +88 01775 668913
+## Payment Gateway
+Use this phone number to pay me from Bangladesh.
+
+````java
++8801775668913
+````
+Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
