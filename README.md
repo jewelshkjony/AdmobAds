@@ -64,7 +64,7 @@ Load this ad when your app is open for the first time.
 ## Admob Banner
 7 types of banner ads available and also you can make custom size banner ads.
   
-<img src="hhttps://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/banner-ad-blocks.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/banner-ad-blocks.png"/>
   
 ## AdmobInterstitial
 Load short video or static photo or image ad.
@@ -93,42 +93,25 @@ Load interstitial video ad.
 [![AdmobAds](http://img.youtube.com/vi/er95UkaB2XE/0.jpg)](http://www.youtube.com/watch?v=er95UkaB2XE)
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(1.09 MB) \
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads</a> (1.09 MB) \
 <b>SDK Version:</b> 21.0.0\
 <b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
 <b>Last amendment:</b> 12 August 2022\
-<b>Supported builder:</b> Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
+<b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
+## 📫 How to reach me -
 
-## 📫 How to reach me: ...
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
 
-<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
+## Global Payment Method
+<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a> | <a href="http://share.payoneer.com/nav/kJkLyppKLt-FTUg-P9xnUd76yT4iWQiym2irI42PLM7uQWXuVsWvSOABMvVykU5hbFiDGSULXNdI3-yRM7JVhA2">Payoneer</a>
 
-## Payment Gateway
-Use this phone number to pay me from Bangladesh.
+### Bangladeshi Payment Method
+Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
+Use this phone number to send money.
 
 ````java
 +8801775668913
 ````
-Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
-
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    Copyright (c) 2022 Jewel Shikder Jony
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+Remember accounts are personal, so you've to use send money option.
