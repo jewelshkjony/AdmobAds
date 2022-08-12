@@ -32,7 +32,7 @@ Load this ad when your app is open for the first time.
 ## AdManagerBanner
 7 types of banner ads available and also you can make custom size banner ads. Same block to show all types banner ads.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20banner.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/ad-manager-blocks.png"/>
 
 ## AdManagerInterstitial
 Load ad manager interstitial ad.
@@ -61,10 +61,10 @@ Load this ad when your app is open for the first time.
   
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Appopen.png"/>
   
-## Admob
+## Admob Banner
 7 types of banner ads available and also you can make custom size banner ads.
   
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Banner.png"/>
+<img src="hhttps://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/banner-ad-blocks.png"/>
   
 ## AdmobInterstitial
 Load short video or static photo or image ad.
@@ -96,7 +96,7 @@ Load interstitial video ad.
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-admob-ads-extension-sdk-21-0-0/36037">com.Jewel.AdmobAds</a>(1.09 MB) \
 <b>SDK Version:</b> 21.0.0\
 <b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
-<b>Last amendment:</b> 15 Jun 2022\
+<b>Last amendment:</b> 12 August 2022\
 <b>Supported builder:</b> Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
 
 
