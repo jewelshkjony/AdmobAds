@@ -1,7 +1,7 @@
 # AdmobAds Extension
 A lightweight ads extension for you to monetize your apps with many types of ads.
 
-<img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon1.png"/> Admob Ads Extension <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon2.png"/> Monetize Your Apps <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon3.png"/> SDK version [21.0.0] <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon4.png"/>
+<img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon1.png"/> Admob Ads Extension <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon2.png"/> Monetize Your Apps <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon3.png"/> SDK version [21.1.0] <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon4.png"/>
 
 Hello guys, I've built Admob lightweight ads extension for you to monetize your apps with many types of ads. It's also support dynamic views for native ad. It's uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension. You'll get next updates free once you purchased.
 
@@ -92,9 +92,12 @@ Load interstitial video ad.
 
 [![AdmobAds](http://img.youtube.com/vi/er95UkaB2XE/0.jpg)](http://www.youtube.com/watch?v=er95UkaB2XE)
 
+# More extensions
+<a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
+
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads</a> (1.09 MB) \
-<b>SDK Version:</b> 21.0.0\
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.09 MB) \
+<b>SDK Version:</b> 21.1.0\
 <b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
 <b>Last amendment:</b> 12 August 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
