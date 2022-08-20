@@ -24,69 +24,90 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 <li> AdmobRewaredInterstitial
 <li> Test Ads
 
+
+## AdmobAppOpen
+Load this ad when your app is open for the first time.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-appopen-property.png"/>
+  
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-appopen-blocks.png"/>
+  
+## Admob Banner
+8 types of banner ads available and also you can make custom size banner ads.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-banner-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-banner-blocks.png"/>
+  
+## AdmobInterstitial
+Load short video or static photo or image ad.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-interstitial-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-interstitial-blocks.png"/>
+  
+## AdmobNative
+Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views. Then use register finish block to show ads in views. You can also use dynamic views to register as NativeAdVew.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-native-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-native-blocks.png"/>
+  
+## AdmobRewarded
+Load rewarded video ads. Recommend for gaming apps.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-rewarded-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-rewarded-blocks.png"/>
+  
+## AdmobRewardedInterstitial
+Load interstitial video ad.
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-rewarded-interstitial-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-rewarded-interstitial-blocks.png"/>
+
 ## AdManagerAppOpen
 Load this ad when your app is open for the first time.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20App%20Open%20Ad.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-appopen-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-appopen-blocks.png"/>
 
 ## AdManagerBanner
-7 types of banner ads available and also you can make custom size banner ads. Same block to show all types banner ads.
+8 types of banner ads available and also you can make custom size banner ads. Same block to show all types banner ads.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/ad-manager-blocks.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-banner-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-banner-blocks.png"/>
 
 ## AdManagerInterstitial
 Load ad manager interstitial ad.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20interstitial.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-interstitial-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-interstitial-blocks.png"/>
 
 ## AdManagerNative
 Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views. Then use register finish block to show ads in views. You can also use dynamic views to register as NativeAdVew.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20native.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-native-property.png"/>
 
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-native-blocks.png"/>
 
 ## AdManagerRewarded
 Load ad manager rewarded ad. Recommend for gaming apps.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20reward.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-rewarded-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-rewarded-blocks.png"/>
 
 ## AdManagerRewardedInterstitial
 Load interstitial video ad.
 
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Admanager%20reward%20interstitial.png"/>
-  
-  
-## AdmobAppOpen
-Load this ad when your app is open for the first time.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Appopen.png"/>
-  
-## Admob Banner
-7 types of banner ads available and also you can make custom size banner ads.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/banner-ad-blocks.png"/>
-  
-## AdmobInterstitial
-Load short video or static photo or image ad.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Interstitial.png"/>
-  
-## AdmobNative
-Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views. Then use register finish block to show ads in views. You can also use dynamic views to register as NativeAdVew.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Native.png"/>
-  
-  
-## AdmobRewarded
-Load rewarded video ads. Recommend for gaming apps.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Raward.png"/>
-  
-  
-## AdmobRewardedInterstitial
-Load interstitial video ad.
-  
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/Reward%20interstitial.png"/>
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-rewarded-interstitial-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admanager-rewarded-interstitial-blocks.png"/>
   
 ## Demo Video: -
 
@@ -96,7 +117,7 @@ Load interstitial video ad.
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.09 MB) \
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.09 MB) \
 <b>SDK Version:</b> 21.1.0\
 <b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
 <b>Last amendment:</b> 12 August 2022\
