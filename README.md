@@ -32,6 +32,11 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 <li> AdManagerRewardedInterstitial
 <li> Test Ads
 
+## AdmobAds/AdmobCore
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-core-property.png"/>
+
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-core-blocks.png"/>
 
 ## AdmobAppOpen
 Load this ad when your app is open for the first time.
