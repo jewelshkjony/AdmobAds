@@ -33,6 +33,14 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 <li> Test Ads
 
 ## AdmobAds/AdmobCore
+  
+ **Initialize** - Call this method as early as possible after the app launches to reduce latency on the session's first ad request. If this method is not called, the first ad request automatically initializes the Google Mobile Ads SDK.
+  
+**Ad inspector** - Ad inspector is an in-app overlay that enables authorized devices to perform real-time analysis of test ad requests directly within a mobile app.
+  
+ **RegisterWebView** - Registers a WebView with the Google Mobile Ads SDK to improve in-app ad monetization of ads within this WebView.
+  
+**OpenDebugMenu** - Opens the debug menu. Initialize method must be called prior to this function.
 
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-core-property.png"/>
 
