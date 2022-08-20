@@ -140,7 +140,7 @@ Load interstitial video ad.
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.09 MB) \
 <b>SDK Version:</b> 21.1.0\
-<b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
+<b>Price:</b> $18.75 USD <small>(1500 Taka only for Bangladeshi) + (Price is changable with bidding networks)</small>\
 <b>Last amendment:</b> 20 August 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
