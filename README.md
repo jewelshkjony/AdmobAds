@@ -5,23 +5,31 @@ A lightweight ads extension for you to monetize your apps with many types of ads
 
 Hello guys, I've built Admob lightweight ads extension for you to monetize your apps with many types of ads. It's also support dynamic views for native ad. It's uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension. You'll get next updates free once you purchased.
 
-<img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/component.png"/>
+<table>
+  <tr>
+    <th width="30%">
+      <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/component.png"/>
+    </th>
+    <th width="70%">
+      <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/admob-cover.jpg"/>
+    </th>
+  </tr>
+</table>
 
 ### Available Ads -
-
-<li> AdManagerAppOpen
-<li> AdManagerBanner
-<li> AdManagerInterstitial
-<li> AdManagerNative - {Customizable} (beta)
-<li> AdManagerReawrded
-<li> AdManagerRewardedInterstitial
 <li> AdmobAds - (It's provide SDK support. It's mandatory to drag it.)
 <li> AdmobAppOpen
 <li> AdmobBanner
 <li> AdmobInterstitial
-<li> AdmobNative - {Customizable} (beta)
+<li> AdmobNative
 <li> AdmobRewarded
 <li> AdmobRewaredInterstitial
+<li> AdManagerAppOpen
+<li> AdManagerBanner
+<li> AdManagerInterstitial
+<li> AdManagerNative
+<li> AdManagerReawrded
+<li> AdManagerRewardedInterstitial
 <li> Test Ads
 
 
@@ -120,7 +128,7 @@ Load interstitial video ad.
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.09 MB) \
 <b>SDK Version:</b> 21.1.0\
 <b>Price:</b> $18.75 USD (1500 Taka only for Bangladeshi)\
-<b>Last amendment:</b> 12 August 2022\
+<b>Last amendment:</b> 20 August 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
