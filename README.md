@@ -1,7 +1,7 @@
 # AdmobAds Extension
 A lightweight ads extension for you to monetize your apps with many types of ads.
 
-<img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon1.png"/> Admob Ads Extension <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon2.png"/> Monetize Your Apps <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon3.png"/> SDK version [21.2.0] <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon4.png"/>
+<img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon1.png"/> Admob Ads Extension <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon2.png"/> Monetize Your Apps <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon3.png"/> SDK version [21.3.0] <img src="https://raw.githubusercontent.com/jewelshkjony/AdmobAds/main/imagaes/icon4.png"/>
 
 Hello guys, I've built Admob lightweight ads extension for you to monetize your apps with many types of ads. It's also support dynamic views for native ad. It's uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension. You'll get next updates free once you purchased.
 
@@ -141,9 +141,9 @@ Load interstitial video ad.
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.70 MB) \
-<b>SDK Version:</b> 21.2.0\
+<b>SDK Version:</b> 21.3.0\
 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> | <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk">AdManagerAds.apk</a> \
-<b>Last amendment:</b> 05 October 2022\
+<b>Last amendment:</b> 11 October 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
@@ -152,6 +152,6 @@ Load interstitial video ad.
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (Global)
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (Global)
 
 ❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
