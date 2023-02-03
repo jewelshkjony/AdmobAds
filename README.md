@@ -158,12 +158,12 @@ Load this ad when your app is open for the first time.
 
 <table>
   <tr>
-    <td><img src="upload://bUPiYkSPbzUuXKVUgLiNcCHKO49.png"></td>
-    <td><img src="upload://rgSJRzrDbd5cIdApnAhJpqRGPIT.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515151-d602382e-748d-4c7c-b767-1212a8fc2fc9.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515189-43582812-48be-4692-9d72-0e9dfaa32859.png"></td>
   </tr>
 </table>
 
-![image|690x311](upload://rqDltQPMoQCuQCwgsAD5hyYHVj1.png)
+![image](https://user-images.githubusercontent.com/75406851/216515215-c432ecb1-381b-4c80-9647-76e9bc2e989a.png)
 
 ## AdManagerBanner
 
@@ -171,15 +171,20 @@ Load this ad when your app is open for the first time.
 
 <table>
   <tr>
-    <td><img src="upload://Ah9Zw0HOGAL1D9mko2ChctgjHsQ.png"></td>
-    <td><img src="upload://yhE8LEYrqx17KaAcohPNAByn9VK.png"></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216515254-5198d48a-265f-4f21-aef6-80ed3bf65bb6.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216515271-5f90e800-4885-4526-befb-aefdaa4e9e78.png">
+    </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td><img src="upload://aReqB9eEaFg3vi26PVBlJbkVcIc.png"></td>
-    <td><img src="upload://t65vdoVPUUZrGTyWgWZCVwlHSYX.png"></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216515360-9a72a11f-0f9d-4e04-81e1-272a4542b241.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216515389-bbb30c61-3068-4d6c-a121-565b8ad16120.png">
+    </td>
   </tr>
 </table>
 
@@ -189,12 +194,12 @@ Load ad manager interstitial ad.
 
 <table>
   <tr>
-    <td><img src="upload://kEFwlNELt42Q0K4wnP88v1pXmbZ.png"></td>
-    <td><img src="upload://tVz9KOlgUX5XQpMvAik54HkI4fz.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515567-b7a2a13f-a3e9-41fc-ac2b-e03db7dc8c89.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515582-16699d2c-7cf9-4aaf-a058-e2c65c8f84bd.png"></td>
   </tr>
 </table>
 
-![image|690x307](upload://rvEyssE5iD7loHJqLpjy0AzOS1l.png)
+![image](https://user-images.githubusercontent.com/75406851/216516268-ac534f8a-911f-4bfa-ab8f-1bb68df28975.png)
 
 ## AdManagerNative
 
@@ -202,12 +207,12 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
 
 <table>
   <tr>
-    <td><img src="upload://iJNSAQqFt5g7o4631iYoNNyBrGV.png"></td>
-    <td><img src="upload://qeAEoDsag5Nr0Gxk2xkBGMgZxyV.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515629-57017b06-4475-45a7-b856-33ab7575af98.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515662-83e6a81e-56c0-4753-9578-8e961f0de1b8.png"></td>
   </tr>
 </table>
 
-![image|690x419](upload://uOkAOXog1GLaJ3QeTKCxM48JHEF.png)
+![image](https://user-images.githubusercontent.com/75406851/216515690-dc27ec78-2930-43f4-824a-975a89a344ba.png)
 
 ## AdManagerRewarded
 
@@ -215,12 +220,12 @@ Load ad manager rewarded ad. Recommend for gaming apps.
 
 <table>
   <tr>
-    <td><img src="upload://cJ4TeOMlm9YVjO6G2Ezr42t6kxv.png"></td>
-    <td><img src="upload://lsSei5yqvKnJHW8Hu75wp1uSY3W.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515750-6191bbb8-7ee2-4949-9b10-9b74c0b8a0da.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515781-54e4d1cf-3465-4d49-ad47-5e54cd6c66ea.png"></td>
   </tr>
 </table>
 
-![image|690x381](upload://g3SH06b9kHHNOwi5HzAO70W70HT.png)
+![image](https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png)
 
 ## AdManagerRewardedInterstitial
 
@@ -228,12 +233,12 @@ Load interstitial video ad.
 
 <table>
   <tr>
-    <td><img src="upload://hnfylCKxtOwF6pS2gCLqba5x7Zx.png"></td>
-    <td><img src="upload://cYoe1VMvDDMLhdE9rqGBydCIf0M.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515820-68f98253-7f8e-41cf-b56a-3e10b56559ce.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/216515848-a7cba966-7dfa-478d-8d7c-428aedd74313.png"></td>
   </tr>
 </table>
 
-![image|690x332](upload://kRA6GpWfATKSTJPh4egU3dBAKBV.png)
+![image](https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png)
 
 > **NOTE** - Don't forget to use your own application id in manifest.
 * **
@@ -249,6 +254,8 @@ Load interstitial video ad.
 <br><b>Mediation:</b> Added mediation support for app open ads.
 <li> <b>21.4.0:</b> Extend SDK support for showing banner ads and native ads requested through the ad inspector UI.
 <br><b>Note:</b> The ad inspector UI will roll out this feature at a later date, requiring a minimum SDK version of 21.4.0.
+<br>Added support for the same app key to help you deliver more relevant and personalized ads by using data collected from your apps.
+<br>Official release version for QueryInfo generation.
 <li> <b>21.3.0:</b> Added SDK support for requesting and showing ads requested through Ad Inspector UI.
 <br> <b>Note:</b> The Ad Inspector UI will roll out this feature at a later date, requiring a minimum SDK version of 21.3.0.
 <li> <b>21.2.0:</b> Added SDK support for exporting ad request logs through Android Sharesheet.
