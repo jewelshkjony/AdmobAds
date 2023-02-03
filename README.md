@@ -75,20 +75,25 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514133-d871214d-9459-46fc-9a59-9f328b90161d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png"></td>
+    <td>
+      App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514133-d871214d-9459-46fc-9a59-9f328b90161d.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
     </td>
     <td>
-     App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
+     <img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png">
     </td>
   </tr>
 </table>
   
 ## Admob Banner
+Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
 
 <table>
   <tr>
@@ -108,15 +113,19 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514636-8e158972-5de2-49ae-ad80-56a5e1b56238.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png"></td>
+    <td>
+      Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514636-8e158972-5de2-49ae-ad80-56a5e1b56238.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
     </td>
     <td>
-    Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
+    <img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png">
     </td>
   </tr>
 </table>
@@ -125,15 +134,19 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514739-a64aa8ac-32e9-4983-aaa3-92b1575948f9.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png"></td>
+    <td>
+      Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514739-a64aa8ac-32e9-4983-aaa3-92b1575948f9.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
     </td>
     <td>
-    Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
+   <img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png">
     </td>
   </tr>
 </table>
@@ -142,15 +155,19 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514815-d065b43d-55c3-43f7-ba24-6b54c249f80d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514840-a541be4e-197f-4273-b299-f619e6dce4ed.png"></td>
+    <td>
+      AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514815-d065b43d-55c3-43f7-ba24-6b54c249f80d.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216514856-68d5f8e4-7b79-4ef0-b547-8e5a46261223.png">
     </td>
     <td>
-    AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
+    <img src="https://user-images.githubusercontent.com/75406851/216514840-a541be4e-197f-4273-b299-f619e6dce4ed.png">
     </td>
   </tr>
 </table>
@@ -159,15 +176,19 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514896-91976c72-7070-4124-adb7-5e61df3c6312.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514919-e67662a6-acfe-419c-8d42-d10fa6a7bb6e.png"></td>
+    <td>
+      Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514896-91976c72-7070-4124-adb7-5e61df3c6312.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png">
     </td>
     <td>
-    Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
+    <img src="https://user-images.githubusercontent.com/75406851/216514919-e67662a6-acfe-419c-8d42-d10fa6a7bb6e.png">
     </td>
   </tr>
 </table>
@@ -176,20 +197,25 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216515151-d602382e-748d-4c7c-b767-1212a8fc2fc9.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216515189-43582812-48be-4692-9d72-0e9dfaa32859.png"></td>
+    <td>
+      App open ads are a special ad format intended for publishers wishing to monetize their app load screens. App open ads can be closed at any time, and are designed to be shown when your users bring your app to the foreground. Note: Specific format may vary by region.
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216515151-d602382e-748d-4c7c-b767-1212a8fc2fc9.png">
+    </td>
   </tr>
   <tr>
     <td width="65%">
       <img src="https://user-images.githubusercontent.com/75406851/216515215-c432ecb1-381b-4c80-9647-76e9bc2e989a.png">
     </td>
     <td>
-    App open ads are a special ad format intended for publishers wishing to monetize their app load screens. App open ads can be closed at any time, and are designed to be shown when your users bring your app to the foreground. Note: Specific format may vary by region.
+    <img src="https://user-images.githubusercontent.com/75406851/216515189-43582812-48be-4692-9d72-0e9dfaa32859.png">
     </td>
   </tr>
 </table>
 
 ## AdManagerBanner
+Banner ads are rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
 
 <table>
   <tr>
