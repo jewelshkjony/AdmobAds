@@ -95,25 +95,20 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
 </table>
   
 ## AdmobInterstitial
-
+Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
+  
 <table>
   <tr>
     <td>
-      Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
-    </td>
-    <td>
       <img src="https://user-images.githubusercontent.com/75406851/216514636-8e158972-5de2-49ae-ad80-56a5e1b56238.png">
     </td>
-  </tr>
-  <tr>
-    <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
-    </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png">
+      <img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png">
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
   
 ## AdmobNative
 
