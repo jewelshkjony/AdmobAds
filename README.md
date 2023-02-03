@@ -57,43 +57,39 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 </table>
 
 ## AdmobAppOpen
+App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
 
 <table>
   <tr>
     <td>
-      App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
-    </td>
-    <td>
       <img src="https://user-images.githubusercontent.com/75406851/216514133-d871214d-9459-46fc-9a59-9f328b90161d.png">
     </td>
-  </tr>
-  <tr>
-    <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
-    </td>
     <td>
-     <img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png">
+      <img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png">
     </td>
   </tr>
 </table>
   
+<img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
+  
 ## Admob Banner
-
+Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
+  
 <table>
   <tr>
-    <td width="65%">
-    Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514349-8ca88051-cb43-413b-866e-191d0f5ae2c4.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514380-08378ceb-d41c-42d4-92aa-060d8c6d63f9.png"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514415-da8b8d5e-7592-4f54-a9a5-5fd732df7676.png">
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514349-8ca88051-cb43-413b-866e-191d0f5ae2c4.png">
     </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/75406851/216514452-2ca8a60c-4891-4653-8dd9-6de0e9258cce.png">
+      <img src="https://user-images.githubusercontent.com/75406851/216514380-08378ceb-d41c-42d4-92aa-060d8c6d63f9.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514415-da8b8d5e-7592-4f54-a9a5-5fd732df7676.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/216514452-2ca8a60c-4891-4653-8dd9-6de0e9258cce.png">
     </td>
   </tr>
 </table>
