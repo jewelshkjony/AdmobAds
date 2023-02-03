@@ -29,7 +29,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   </tr>
 </table>
 
-## AdmobAds/AdmobCore
+## AdmobCore (SDK) **↓**
 
  **Initialize** - Call this method as early as possible after the app launches to reduce latency on the session's first ad request. If this method is not called, the first ad request automatically initializes the Google Mobile Ads SDK.
   
@@ -56,7 +56,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   </tr>
 </table>
 
-## Admob App Open Ad
+## Admob App Open Ad **↓**
 App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
 
 <table>
@@ -72,7 +72,7 @@ App open ads are served when a user opens or switches back to your app. Why use 
   
 <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
   
-## Admob Banner Ad
+## Admob Banner Ad **↓**
 Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
   
 <table>
@@ -94,7 +94,7 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
   </tr>
 </table>
   
-## Admob Interstitial Ad
+## Admob Interstitial Ad **↓**
 Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
   
 <table>
@@ -110,7 +110,7 @@ Interstitial ads are full-screen ads that appear in the form of interstitial vid
 
 <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
   
-## Admob Native Ad
+## Admob Native Ad **↓**
 Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
   
 <table>
@@ -126,7 +126,7 @@ Native ads allow you to customize the look and feel of the ads that appear in yo
   
 <img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
   
-## Admob Rewarded Ad
+## Admob Rewarded Ad **↓**
 AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
   
 <table>
@@ -142,7 +142,7 @@ AdMob rewarded ad units allow you to reward users with in-app items for interact
   
 <img src="https://user-images.githubusercontent.com/75406851/216514856-68d5f8e4-7b79-4ef0-b547-8e5a46261223.png">
   
-## Admob Rewarded Interstitial Ad
+## Admob Rewarded Interstitial Ad **↓**
 Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
   
 <table>
@@ -158,7 +158,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
   
 <img src="https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png">
   
-## AdManager App Open Ad
+## AdManager App Open Ad **↓**
 App open ads are a special ad format intended for publishers wishing to monetize their app load screens. App open ads can be closed at any time, and are designed to be shown when your users bring your app to the foreground. Note: Specific format may vary by region.
   
 <table>
@@ -174,7 +174,7 @@ App open ads are a special ad format intended for publishers wishing to monetize
 
 <img src="https://user-images.githubusercontent.com/75406851/216515215-c432ecb1-381b-4c80-9647-76e9bc2e989a.png">
    
-## AdManager Banner Ad
+## AdManager Banner Ad **↓**
 Banner ads are rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
 
 <table>
@@ -196,7 +196,7 @@ Banner ads are rectangular ads that occupy a portion of an app's layout. They st
   </tr>
 </table>
 
-## AdManager Interstitial Ad
+## AdManager Interstitial Ad **↓**
 Interstitials are full-page ad units served between screens during mobile app navigation. They present a user with full-screen app experiences at natural app transition points such as launch, video pre-roll, or game level load.
   
 <table>
@@ -212,8 +212,8 @@ Interstitials are full-page ad units served between screens during mobile app na
 
 <img src="https://user-images.githubusercontent.com/75406851/216516268-ac534f8a-911f-4bfa-ab8f-1bb68df28975.png">
   
-## AdManager Native Ad
-
+## AdManager Native Ad **↓**
+Native ads match the look and feel of your site or app and provide a better user experience for your visitors. Native ads are different from standard ads in that they're designed to fit neatly inside the user's path through your site or app. Visitors still know they're ads, but they look great next to your content.
 Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views.
 
 <table>
@@ -221,49 +221,33 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
     <td><img src="https://user-images.githubusercontent.com/75406851/216515629-57017b06-4475-45a7-b856-33ab7575af98.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515662-83e6a81e-56c0-4753-9578-8e961f0de1b8.png"></td>
   </tr>
-  <tr>
-    <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216515690-dc27ec78-2930-43f4-824a-975a89a344ba.png">
-    </td>
-    <td>
-    Native ads match the look and feel of your site or app and provide a better user experience for your visitors. Native ads are different from standard ads in that they're designed to fit neatly inside the user's path through your site or app. Visitors still know they're ads, but they look great next to your content.
-    </td>
-  </tr>
 </table>
+  
+<img src="https://user-images.githubusercontent.com/75406851/216515690-dc27ec78-2930-43f4-824a-975a89a344ba.png">
 
-## AdManagerRewarded
-
+## AdManager Rewarded Ad **↓**
+Rewarded media changes the ads experience by allowing users to voluntarily watch an ad in exchange for an in-app reward. This increases publisher monetization opportunities and maximizes the value of content. Ad Manager offers two inventory formats that offer rewards: Rewarded ads and Rewarded interstitial ads.
+  
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515750-6191bbb8-7ee2-4949-9b10-9b74c0b8a0da.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515781-54e4d1cf-3465-4d49-ad47-5e54cd6c66ea.png"></td>
   </tr>
-  <tr>
-    <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png">
-    </td>
-    <td>
-    Rewarded media changes the ads experience by allowing users to voluntarily watch an ad in exchange for an in-app reward. This increases publisher monetization opportunities and maximizes the value of content. Ad Manager offers two inventory formats that offer rewards: Rewarded ads and Rewarded interstitial ads.
-    </td>
-  </tr>
 </table>
 
-## AdManagerRewardedInterstitial
-
+<img src="https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png">
+  
+## AdManager Rewarded Interstitial Ad **↓**
+Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
+ 
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515820-68f98253-7f8e-41cf-b56a-3e10b56559ce.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515848-a7cba966-7dfa-478d-8d7c-428aedd74313.png"></td>
   </tr>
-  <tr>
-  <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png">
-    </td>
-    <td>
-    Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
-    </td>
-  </tr>
 </table>
+  
+<img src="https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png">
 
 > **NOTE** - Don't forget to use your own application id in manifest.
 * **
