@@ -26,21 +26,6 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216513575-2cbb96bc-3018-4515-888b-3001aa7b502c.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216513780-3c70b23a-5637-4565-a57e-0612e3363bb8.png"></td>
-    <td><small>
-<li> AdmobCore
-<li> AdmobAppOpen
-<li> AdmobBanner
-<li> AdmobInterstitial
-<li> AdmobNative
-<li> AdmobRewarded
-<li> Admob RewaredInterstitial
-<li> AdManagerAppOpen
-<li> AdManagerBanner
-<li> AdManagerInterstitial
-<li> AdManagerNative
-<li> AdManagerReawrded
-<li> AdManager RewardedInterstitial
-</small></td>
   </tr>
 </table>
 
