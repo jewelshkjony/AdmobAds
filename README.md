@@ -56,7 +56,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   </tr>
 </table>
 
-## AdmobAppOpen
+## Admob App Open Ad
 App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
 
 <table>
@@ -72,7 +72,7 @@ App open ads are served when a user opens or switches back to your app. Why use 
   
 <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
   
-## Admob Banner
+## Admob Banner Ad
 Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
   
 <table>
@@ -94,7 +94,7 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
   </tr>
 </table>
   
-## AdmobInterstitial
+## Admob Interstitial Ad
 Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
   
 <table>
@@ -110,28 +110,23 @@ Interstitial ads are full-screen ads that appear in the form of interstitial vid
 
 <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
   
-## AdmobNative
-
+## Admob Native Ad
+Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
+  
 <table>
   <tr>
     <td>
-      Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
-    </td>
-    <td>
       <img src="https://user-images.githubusercontent.com/75406851/216514739-a64aa8ac-32e9-4983-aaa3-92b1575948f9.png">
     </td>
-  </tr>
-  <tr>
-    <td width="65%">
-      <img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
-    </td>
     <td>
-   <img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png">
+      <img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png">
     </td>
   </tr>
 </table>
   
-## AdmobRewarded
+<img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
+  
+## Admob Rewarded Ad
 
 <table>
   <tr>
