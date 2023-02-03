@@ -56,6 +56,12 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 <table>
   <tr>
+     <img src="https://user-images.githubusercontent.com/75406851/216514076-8f57b0b2-2dac-476b-852c-10fec3dfc312.png">
+  </tr>
+  <tr>
+    <img src="https://user-images.githubusercontent.com/75406851/216514109-997d060b-4099-400d-89ec-811ff6f86d36.png">
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216513835-3a91fb4b-2757-435f-9e3f-40f35b47e91b.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216513862-04ae0b45-2c80-4a83-a7b6-9dcf165056bf.png"></td>
   </tr>
@@ -64,10 +70,6 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
     <td><img src="https://user-images.githubusercontent.com/75406851/216514014-7a6aa8a5-158a-4673-9e57-7a142c305eb6.png"></td>
   </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216514076-8f57b0b2-2dac-476b-852c-10fec3dfc312.png)
-
-![image](https://user-images.githubusercontent.com/75406851/216514109-997d060b-4099-400d-89ec-811ff6f86d36.png)
 
 ## AdmobAppOpen
 
@@ -78,9 +80,10 @@ Load this ad when your app is open for the first time.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514133-d871214d-9459-46fc-9a59-9f328b90161d.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png"></td>
   </tr>
+  <tr>
+    <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
+  </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png)
   
 ## Admob Banner
 
@@ -109,9 +112,10 @@ Load short video or static photo or image ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514636-8e158972-5de2-49ae-ad80-56a5e1b56238.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png"></td>
   </tr>
+  <tr>
+    <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
+  </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png)
   
 ## AdmobNative
 
@@ -121,6 +125,9 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514739-a64aa8ac-32e9-4983-aaa3-92b1575948f9.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png"></td>
+  </tr>
+  <tr>
+    <img src="">
   </tr>
 </table>
 
@@ -135,6 +142,9 @@ Load rewarded video ads. Recommend for gaming apps.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514815-d065b43d-55c3-43f7-ba24-6b54c249f80d.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514840-a541be4e-197f-4273-b299-f619e6dce4ed.png"></td>
   </tr>
+  <tr>
+    <img src="">
+  </tr>
 </table>
 
 ![image](https://user-images.githubusercontent.com/75406851/216514856-68d5f8e4-7b79-4ef0-b547-8e5a46261223.png)
@@ -148,6 +158,9 @@ Load interstitial video ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514896-91976c72-7070-4124-adb7-5e61df3c6312.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514919-e67662a6-acfe-419c-8d42-d10fa6a7bb6e.png"></td>
   </tr>
+  <tr>
+    <img src="">
+  </tr>
 </table>
 
 ![image](https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png)
@@ -160,6 +173,9 @@ Load this ad when your app is open for the first time.
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515151-d602382e-748d-4c7c-b767-1212a8fc2fc9.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515189-43582812-48be-4692-9d72-0e9dfaa32859.png"></td>
+  </tr>
+  <tr>
+    <img src="">
   </tr>
 </table>
 
@@ -197,6 +213,9 @@ Load ad manager interstitial ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515567-b7a2a13f-a3e9-41fc-ac2b-e03db7dc8c89.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515582-16699d2c-7cf9-4aaf-a058-e2c65c8f84bd.png"></td>
   </tr>
+  <tr>
+    <img src="">
+  </tr>
 </table>
 
 ![image](https://user-images.githubusercontent.com/75406851/216516268-ac534f8a-911f-4bfa-ab8f-1bb68df28975.png)
@@ -209,6 +228,9 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515629-57017b06-4475-45a7-b856-33ab7575af98.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515662-83e6a81e-56c0-4753-9578-8e961f0de1b8.png"></td>
+  </tr>
+  <tr>
+    <img src="">
   </tr>
 </table>
 
@@ -223,6 +245,9 @@ Load ad manager rewarded ad. Recommend for gaming apps.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515750-6191bbb8-7ee2-4949-9b10-9b74c0b8a0da.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515781-54e4d1cf-3465-4d49-ad47-5e54cd6c66ea.png"></td>
   </tr>
+  <tr>
+    <img src="">
+  </tr>
 </table>
 
 ![image](https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png)
@@ -236,9 +261,10 @@ Load interstitial video ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515820-68f98253-7f8e-41cf-b56a-3e10b56559ce.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515848-a7cba966-7dfa-478d-8d7c-428aedd74313.png"></td>
   </tr>
+  <tr>
+    <img src="https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png">
+  </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png)
 
 > **NOTE** - Don't forget to use your own application id in manifest.
 * **
