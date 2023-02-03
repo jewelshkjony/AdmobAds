@@ -93,9 +93,13 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 </table>
   
 ## Admob Banner
-Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
 
 <table>
+  <tr>
+    <td width="65%">
+    Banner ad units display rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
+    </td>
+  </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514349-8ca88051-cb43-413b-866e-191d0f5ae2c4.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514380-08378ceb-d41c-42d4-92aa-060d8c6d63f9.png"></td>
@@ -215,9 +219,13 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
 </table>
 
 ## AdManagerBanner
-Banner ads are rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
 
 <table>
+  <tr>
+    <td width="65%">
+    Banner ads are rectangular ads that occupy a portion of an app's layout. They stay on screen while users are interacting with the app, either anchored at the top or bottom of the screen or inline with content as the user scrolls. Banner ads can refresh automatically after a certain period of time.
+    </td>
+  </tr>
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/75406851/216515254-5198d48a-265f-4f21-aef6-80ed3bf65bb6.png">
