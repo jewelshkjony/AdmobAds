@@ -73,21 +73,22 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 ## AdmobAppOpen
 
-Load this ad when your app is open for the first time.
-
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514133-d871214d-9459-46fc-9a59-9f328b90161d.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514175-b3063217-d6a5-487f-8880-c9bb6b65f9bb.png"></td>
   </tr>
   <tr>
-    <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216514199-03675e6b-3ae2-4e49-9bb7-0e8a6501e982.png">
+    </td>
+    <td>
+     App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
+    </td>
   </tr>
 </table>
   
 ## Admob Banner
-
-8 types of banner ads available and also you can make custom size banner ads.
 
 <table>
   <tr>
@@ -105,21 +106,22 @@ Load this ad when your app is open for the first time.
   
 ## AdmobInterstitial
 
-Load short video or static photo or image ad.
-
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514636-8e158972-5de2-49ae-ad80-56a5e1b56238.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216514672-2b4b5ed9-25c0-42f7-84e0-502e648b2e2d.png"></td>
   </tr>
   <tr>
-    <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
+    </td>
+    <td>
+    Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
+    </td>
   </tr>
 </table>
   
 ## AdmobNative
-
-Design native ad from designer section then load ad. When ad is loaded, then register all views to set values in views.
 
 <table>
   <tr>
@@ -127,15 +129,16 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
     <td><img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
+    </td>
+    <td>
+    Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
+    </td>
   </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png)
   
 ## AdmobRewarded
-
-Load rewarded video ads. Recommend for gaming apps.
 
 <table>
   <tr>
@@ -143,15 +146,16 @@ Load rewarded video ads. Recommend for gaming apps.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514840-a541be4e-197f-4273-b299-f619e6dce4ed.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216514856-68d5f8e4-7b79-4ef0-b547-8e5a46261223.png">
+    </td>
+    <td>
+    AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
+    </td>
   </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216514856-68d5f8e4-7b79-4ef0-b547-8e5a46261223.png)
   
 ## AdmobRewardedInterstitial
-
-Load interstitial video ad.
 
 <table>
   <tr>
@@ -159,15 +163,16 @@ Load interstitial video ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216514919-e67662a6-acfe-419c-8d42-d10fa6a7bb6e.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png">
+    </td>
+    <td>
+    Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
+    </td>
   </tr>
 </table>
 
-![image](https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png)
-
 ## AdManagerAppOpen
-
-Load this ad when your app is open for the first time.
 
 <table>
   <tr>
@@ -175,15 +180,16 @@ Load this ad when your app is open for the first time.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515189-43582812-48be-4692-9d72-0e9dfaa32859.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216515215-c432ecb1-381b-4c80-9647-76e9bc2e989a.png">
+    </td>
+    <td>
+    App open ads are a special ad format intended for publishers wishing to monetize their app load screens. App open ads can be closed at any time, and are designed to be shown when your users bring your app to the foreground. Note: Specific format may vary by region.
+    </td>
   </tr>
 </table>
 
-![image](https://user-images.githubusercontent.com/75406851/216515215-c432ecb1-381b-4c80-9647-76e9bc2e989a.png)
-
 ## AdManagerBanner
-
-8 types of banner ads available and also you can make custom size banner ads. Same block to show all types banner ads.
 
 <table>
   <tr>
@@ -206,19 +212,20 @@ Load this ad when your app is open for the first time.
 
 ## AdManagerInterstitial
 
-Load ad manager interstitial ad.
-
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515567-b7a2a13f-a3e9-41fc-ac2b-e03db7dc8c89.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216515582-16699d2c-7cf9-4aaf-a058-e2c65c8f84bd.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216516268-ac534f8a-911f-4bfa-ab8f-1bb68df28975.png">
+    </td>
+    <td>
+    Interstitials are full-page ad units served between screens during mobile app navigation. They present a user with full-screen app experiences at natural app transition points such as launch, video pre-roll, or game level load.
+    </td>
   </tr>
 </table>
-
-![image](https://user-images.githubusercontent.com/75406851/216516268-ac534f8a-911f-4bfa-ab8f-1bb68df28975.png)
 
 ## AdManagerNative
 
@@ -230,15 +237,16 @@ Design native ad from designer section then load ad. When ad is loaded, then reg
     <td><img src="https://user-images.githubusercontent.com/75406851/216515662-83e6a81e-56c0-4753-9578-8e961f0de1b8.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216515690-dc27ec78-2930-43f4-824a-975a89a344ba.png">
+    </td>
+    <td>
+    Native ads match the look and feel of your site or app and provide a better user experience for your visitors. Native ads are different from standard ads in that they're designed to fit neatly inside the user's path through your site or app. Visitors still know they're ads, but they look great next to your content.
+    </td>
   </tr>
 </table>
 
-![image](https://user-images.githubusercontent.com/75406851/216515690-dc27ec78-2930-43f4-824a-975a89a344ba.png)
-
 ## AdManagerRewarded
-
-Load ad manager rewarded ad. Recommend for gaming apps.
 
 <table>
   <tr>
@@ -246,15 +254,16 @@ Load ad manager rewarded ad. Recommend for gaming apps.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515781-54e4d1cf-3465-4d49-ad47-5e54cd6c66ea.png"></td>
   </tr>
   <tr>
-    <img src="">
+    <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png">
+    </td>
+    <td>
+    Rewarded media changes the ads experience by allowing users to voluntarily watch an ad in exchange for an in-app reward. This increases publisher monetization opportunities and maximizes the value of content. Ad Manager offers two inventory formats that offer rewards: Rewarded ads and Rewarded interstitial ads.
+    </td>
   </tr>
 </table>
 
-![image](https://user-images.githubusercontent.com/75406851/216515802-23560837-7117-401e-b076-39500e8092c6.png)
-
 ## AdManagerRewardedInterstitial
-
-Load interstitial video ad.
 
 <table>
   <tr>
@@ -262,7 +271,12 @@ Load interstitial video ad.
     <td><img src="https://user-images.githubusercontent.com/75406851/216515848-a7cba966-7dfa-478d-8d7c-428aedd74313.png"></td>
   </tr>
   <tr>
-    <img src="https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png">
+  <td width="65%">
+      <img src="https://user-images.githubusercontent.com/75406851/216515887-bb8bd6f6-0480-4ef8-9b18-376e3ba22f89.png">
+    </td>
+    <td>
+    Rewarded interstitial is a new type of incentivized ad format that allows you to offer rewards, such as coins or extra lives, for ads that appear automatically during natural app transitions. Unlike rewarded ads, users aren't required to opt-in to view a rewarded interstitial.
+    </td>
   </tr>
 </table>
 
@@ -310,6 +324,6 @@ Load interstitial video ad.
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (Global)
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | <b>Paypal</b> (Global)
 
 ❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
