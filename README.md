@@ -252,13 +252,14 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 > **NOTE** - Don't forget to use your own application id in manifest.
 * **
 
->## Implementation Guide Video **↓**
+## Implementation Guide Video **↓**
 
 [![AdmobAds](http://img.youtube.com/vi/YZ73SOA8Nas/0.jpg)](http://www.youtube.com/watch?v=YZ73SOA8Nas)
 
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
 <li> <b>21.5.0:</b> <b>App Open Ads:</b> Deprecated load methods that accept an orientation input parameter and added new methods that don't take an orientation input. The new methods determine the orientation at request time, matching the behavior of other full-screen formats.
 <br><b>Mediation:</b> Added mediation support for app open ads.
 <li> <b>21.4.0:</b> Extend SDK support for showing banner ads and native ads requested through the ad inspector UI.
@@ -282,9 +283,9 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.68 MB) \
-<b>SDK Version:</b> 21.5.0\
+<b>SDK Version:</b> 22.0.0\
 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> | <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk">AdManagerAds.apk</a> \
-<b>Last amendment:</b> 02 February 2023\
+<b>Last amendment:</b> 30 March 2023\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
