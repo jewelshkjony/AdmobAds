@@ -111,20 +111,27 @@ Interstitial ads are full-screen ads that appear in the form of interstitial vid
 <img src="https://user-images.githubusercontent.com/75406851/216514704-319bd8b3-b24f-4c36-9723-444f3005ba5b.png">
   
 ## Admob Native Ad **↓**
-Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they're placed, and how they work within your existing app design.
+Native ads allow you to customize the look and feel of the ads that appear in your app. You design the ads from the ground up: how they look, where they’re placed, and how they work within your existing app design.
+
+You can design the `NativeAdView` using `XML` code like Android Studio.\
+Here is a sample of XML file ↓\
+🗒️ <a href="https://github.com/jewelshkjony/AdmobAds/blob/main/output/AdmobNative.xml">AdmobNative.xml</a>
+
+Just you need to upload (.xml) file into builder asset then set the (.xml) file with the extension.\
+And populate all views using tags. 📺 <a href="https://www.youtube.com/watch?v=k4QBn2bUYME">(Watch Video)</a>
   
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/75406851/216514739-a64aa8ac-32e9-4983-aaa3-92b1575948f9.png">
+      <img src="https://user-images.githubusercontent.com/75406851/229293904-2a884d9f-6dc8-4fd1-9ebe-5914d3e7fe6e.png">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/75406851/216514756-1b9a3ba8-07bf-4927-aef2-800a6da829a0.png">
+      <img src="https://user-images.githubusercontent.com/75406851/229293928-b783c86d-8b23-495a-bb6b-d8eefeac73e6.png">
     </td>
   </tr>
 </table>
   
-<img src="https://user-images.githubusercontent.com/75406851/216514792-b17805c6-1ef2-461c-9b8d-df604232916b.png">
+<img src="https://user-images.githubusercontent.com/75406851/229293947-c7074e93-e5be-412c-a6f9-6bb1ab244d87.png">
   
 ## Admob Rewarded Ad **↓**
 AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
@@ -260,6 +267,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 <small>
 <li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
+<br>Added <b>XML</b> layout support for native ad. Now you can design native ad using XML code.
 <li> <b>21.5.0:</b> <b>App Open Ads:</b> Deprecated load methods that accept an orientation input parameter and added new methods that don't take an orientation input. The new methods determine the orientation at request time, matching the behavior of other full-screen formats.
 <br><b>Mediation:</b> Added mediation support for app open ads.
 <li> <b>21.4.0:</b> Extend SDK support for showing banner ads and native ads requested through the ad inspector UI.
@@ -294,6 +302,6 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | <b>Paypal</b> (Global)
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | <a href="https://www.paypal.com/">Paypal</a> (Global)
 
 ❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
