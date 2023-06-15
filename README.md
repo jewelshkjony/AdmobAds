@@ -266,6 +266,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.1.0:</b> Ad inspector: Enabled ability to trigger ad requests from the ad inspector UI on devices that don't have Google Play services.
 <li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
 <br>Added <b>XML</b> layout support for native ad. Now you can design native ad using XML code.
 <li> <b>21.5.0:</b> <b>App Open Ads:</b> Deprecated load methods that accept an orientation input parameter and added new methods that don't take an orientation input. The new methods determine the orientation at request time, matching the behavior of other full-screen formats.
@@ -291,9 +292,9 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.67 MB) \
-<b>SDK Version:</b> 22.0.0\
+<b>SDK Version:</b> 22.1.0\
 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> | <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk">AdManagerAds.apk</a> \
-<b>Last amendment:</b> 06 April 2023\
+<b>Last amendment:</b> 14 June 2023\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
