@@ -287,7 +287,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 </small>
 
 # More extensions
-<a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
+<a href="https://github.com/jewelshkjony/Extensions">See more extensions</a>
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
