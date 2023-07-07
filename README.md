@@ -3,7 +3,7 @@ A lightweight ads extension for you to monetize your apps with many types of ads
 * **
 Hello guys, I've built Admob lightweight ads extension for you to monetize your apps with many types of ads. It's also support dynamic views for native ad. It's uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension. You'll get next updates free once you purchased. This extension don't take any commission from you.
 
-**Enabled optimized SDK initialization and ad loading to improve the overall responsiveness of ads.**
+**Enabled optimized Sdk initialization & ad loading to improve the overall responsiveness of ads.**
 * **
 
 ## Supported Mediation/Bidding
@@ -18,18 +18,18 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 <li> <b>Tapjoy</b>
 <li> <b>Pangle</b>
 
->**100% Commission Free Extension**
+>**Note:** *100% commission free extension.*
 
 ### Multi Component Extension
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216513575-2cbb96bc-3018-4515-888b-3001aa7b502c.png"></td>
+    <td><img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/3dc7be51-1ea0-4356-8bc6-39f36b5fb448"></td>
     <td><img src="https://user-images.githubusercontent.com/75406851/216513780-3c70b23a-5637-4565-a57e-0612e3363bb8.png"></td>
   </tr>
 </table>
 
-## AdmobCore (SDK) **↓**
+## Admob Sdk **↓**
 
  **Initialize** - Call this method as early as possible after the app launches to reduce latency on the session's first ad request. If this method is not called, the first ad request automatically initializes the Google Mobile Ads SDK.
   
@@ -39,22 +39,24 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   
 **OpenDebugMenu** - Opens the debug menu. Initialize method must be called prior to this function.
 
-<table>
-  <tr>
-     <img src="https://user-images.githubusercontent.com/75406851/216514076-8f57b0b2-2dac-476b-852c-10fec3dfc312.png">
-  </tr>
-  <tr>
-    <img src="https://user-images.githubusercontent.com/75406851/216514109-997d060b-4099-400d-89ec-811ff6f86d36.png">
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216513835-3a91fb4b-2757-435f-9e3f-40f35b47e91b.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216513862-04ae0b45-2c80-4a83-a7b6-9dcf165056bf.png"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216513928-91bc892f-31a0-4b98-9dd2-6cf2cbb33b02.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/216514014-7a6aa8a5-158a-4673-9e57-7a142c305eb6.png"></td>
-  </tr>
-</table>
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/3cbe2d9d-8b15-4229-b957-0179f6e15346)
+
+## Ads Consent Form **↓**
+
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/f468b963-91c7-4a8d-bc54-49f09857f241)
+
+<details>
+<summary>Demo consent blocks</summary>
+  
+<li> For production:
+
+<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/f1a18831-7115-4d1e-a430-83777454c77c" />
+   
+<li> For testing:
+
+<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/6f9be6c9-8d61-456b-9bdc-1af46eac6d0f" />
+    
+</details>
 
 ## Admob App Open Ad **↓**
 App open ads are served when a user opens or switches back to your app. Why use app open ads? App open ads are specially designed to seamlessly integrate into the app open or app switch context. The unique app open ad layout offers the best user experience for this placement.
@@ -84,15 +86,9 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
       <img src="https://user-images.githubusercontent.com/75406851/216514380-08378ceb-d41c-42d4-92aa-060d8c6d63f9.png">
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/75406851/216514415-da8b8d5e-7592-4f54-a9a5-5fd732df7676.png">
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/75406851/216514452-2ca8a60c-4891-4653-8dd9-6de0e9258cce.png">
-    </td>
-  </tr>
 </table>
+
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/d97e468a-bdad-4618-bddb-dff6aec703b2)
   
 ## Admob Interstitial Ad **↓**
 Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
@@ -115,7 +111,7 @@ Native ads allow you to customize the look and feel of the ads that appear in yo
 
 You can design the `NativeAdView` using `XML` code like Android Studio.\
 Here is a sample of XML file ↓\
-🗒️ <a href="https://github.com/jewelshkjony/AdmobAds/blob/main/output/AdmobNative.xml">AdmobNative.xml</a>
+🗒️ <a href="https://github.com/jewelshkjony/AdmobAds/blob/main/output/AdmobNative.xml">AdmobNative.xml</a> | <a href="https://github.com/jewelshkjony/RecyclerNativeAdView/blob/main/files/small_template.xml">small_template.xml</a>
 
 Just you need to upload (.xml) file into builder asset then set the (.xml) file with the extension.\
 And populate all views using tags. 📺 <a href="https://www.youtube.com/watch?v=k4QBn2bUYME">(Watch Video)</a>
@@ -123,16 +119,18 @@ And populate all views using tags. 📺 <a href="https://www.youtube.com/watch?v
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/75406851/229293904-2a884d9f-6dc8-4fd1-9ebe-5914d3e7fe6e.png">
+      <img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/2a3d413e-c8f0-40d7-b92c-57fe69985b90">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/75406851/229293928-b783c86d-8b23-495a-bb6b-d8eefeac73e6.png">
+      <img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/e0e6bc56-5995-4bd5-a4be-54008a33d368)">
     </td>
   </tr>
 </table>
   
-<img src="https://user-images.githubusercontent.com/75406851/229293947-c7074e93-e5be-412c-a6f9-6bb1ab244d87.png">
-  
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/214a0d52-4431-49be-a2f1-919c8b821c1c)
+
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/873c72f2-2bbc-4f49-a2ed-03ed745e5fd7)
+
 ## Admob Rewarded Ad **↓**
 AdMob rewarded ad units allow you to reward users with in-app items for interacting with video ads, playable ads, and surveys. Get inspired. Learn how an AdMob user boosted their revenue with rewarded ads.
   
@@ -266,6 +264,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.2.0:</b> Deprecated some custom events.
 <li> <b>22.1.0:</b> Ad inspector: Enabled ability to trigger ad requests from the ad inspector UI on devices that don't have Google Play services.
 <li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
 <br>Added <b>XML</b> layout support for native ad. Now you can design native ad using XML code.
@@ -291,11 +290,12 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.67 MB) \
-<b>SDK Version:</b> 22.1.0\
-<b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> | <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk">AdManagerAds.apk</a> \
-<b>Last amendment:</b> 14 June 2023\
-<b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
+<b>⚙️ SDK Version:</b> 22.2.0\
+<b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> | <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdManagerAds.apk">AdManagerAds.apk</a> \
+<b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
+<b>🌏 Updated On:</b> 07 July 2023 (GMT+06:00)\
+<b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
 
