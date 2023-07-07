@@ -39,22 +39,22 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   
 **OpenDebugMenu** - Opens the debug menu. Initialize method must be called prior to this function.
 
-![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/3cbe2d9d-8b15-4229-b957-0179f6e15346)
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/271cd88b-f53c-465b-9a46-5246a5c9b0a4)
 
 ## Ads Consent Form **↓**
 
-![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/f468b963-91c7-4a8d-bc54-49f09857f241)
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/8a8e915b-d5ae-4043-abc2-583b01ec8699)
 
 <details>
 <summary>Demo consent blocks</summary>
   
 <li> For production:
 
-<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/f1a18831-7115-4d1e-a430-83777454c77c" />
+<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/9bde166a-13a2-4aa4-a1f5-cd12024d1b41" />
    
 <li> For testing:
 
-<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/6f9be6c9-8d61-456b-9bdc-1af46eac6d0f" />
+<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/7920fcf9-8102-452b-98d3-7b35441a9bbf" />
     
 </details>
 
