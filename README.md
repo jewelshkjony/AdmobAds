@@ -173,6 +173,7 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.3.0:</b> Added support for creating adaptive sizes using `FULL_WIDTH` as the width. Previously, ad sizes created using `FULL_WIDTH` would be treated as `SMART_BANNER`.
 <li> <b>22.2.0:</b> Deprecated some custom events.
 <li> <b>22.1.0:</b> Ad inspector: Enabled ability to trigger ad requests from the ad inspector UI on devices that don't have Google Play services.
 <li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
@@ -200,11 +201,11 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## 📝 Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
-<b>⚙️ SDK Version:</b> 22.2.0\
+<b>⚙️ SDK Version:</b> 22.3.0\
 <b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> \
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 <b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
-<b>🌏 Updated On:</b> 07 July 2023 (GMT+06:00)\
+<b>🌏 Updated On:</b> 23 August 2023 (GMT+06:00)\
 <b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
@@ -213,6 +214,4 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | <a href="https://www.paypal.com/">Paypal</a> (Global)
-
-❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
+❏ Binance  |  Crypto | Skrill | Wise | Pyypl | Xoom  | Paypal | UPI | JazzCash | bKash |  Nagad
