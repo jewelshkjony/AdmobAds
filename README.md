@@ -204,11 +204,11 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## 📝 Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
-<b>⚙️ SDK Version:</b> 22.3.0\
+<b>⚙️ SDK Version:</b> 22.4.0\
 <b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> \
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 <b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
-<b>🌏 Updated On:</b> 23 August 2023 (GMT+06:00)\
+<b>🌏 Updated On:</b> 26 September 2023 (GMT+06:00)\
 <b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
