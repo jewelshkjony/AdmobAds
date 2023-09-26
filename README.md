@@ -173,6 +173,9 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.4.0:</b> Ad inspector: Added SDK support for requesting and showing ads requested through Ad Inspector UI. (Note: The ad inspector UI will roll out this feature at a later date, requiring a minimum SDK version of 21.4.0.)
+<br>• Added new `QueryInfo` & `QueryInfoWith` method that takes an ad unit id.
+<br>• Enables initial testing of the Attribution Reporting Beta and Topics Beta privacy-preserving APIs. See the AdMob Privacy Sandbox on Android guide for more information.
 <li> <b>22.3.0:</b> Added support for creating adaptive sizes using `FULL_WIDTH` as the width. Previously, ad sizes created using `FULL_WIDTH` would be treated as `SMART_BANNER`.
 <li> <b>22.2.0:</b> Deprecated some custom events.
 <li> <b>22.1.0:</b> Ad inspector: Enabled ability to trigger ad requests from the ad inspector UI on devices that don't have Google Play services.
