@@ -34,7 +34,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
   
 **OpenDebugMenu** - Opens the debug menu. Initialize method must be called prior to this function.
 
-![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/271cd88b-f53c-465b-9a46-5246a5c9b0a4)
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/ffb1f6db-f436-4ac8-a705-379d92164b93)
 
 ## Ads Consent Form **↓**
 
@@ -87,8 +87,8 @@ Banner ad units display rectangular ads that occupy a portion of an app's layout
   </tr>
 </table>
 
-![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/d97e468a-bdad-4618-bddb-dff6aec703b2)
-  
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/2feaf855-b3e0-4e2e-b4ba-86fd569a9d89)
+
 ## Admob Interstitial Ad **↓**
 Interstitial ads are full-screen ads that appear in the form of interstitial video, text, rich media, or images. Users can choose to close an interstitial ad after a certain watching period. The length varies from one ad network to another.
   
