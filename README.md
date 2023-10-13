@@ -163,12 +163,9 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 <img src="https://user-images.githubusercontent.com/75406851/216514945-3a4d38ec-1cdc-4fef-b2d0-9c89f92a3c6b.png">
 
 
-> **NOTE** - Don't forget to use your own application id in manifest.
-
-
 ## Implementation Guide Video **↓**
 
-[![AdmobAds](http://img.youtube.com/vi/YZ73SOA8Nas/0.jpg)](http://www.youtube.com/watch?v=YZ73SOA8Nas)
+[![AdmobAds](http://img.youtube.com/vi/0dXiJe0c8aA/0.jpg)](https://youtu.be/0dXiJe0c8aA&list=PLczFHGJFYQrkkmASreUi5SxPMYio8HdWu)
 
 ## ➤ Release Notes ↷
 
