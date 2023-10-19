@@ -36,24 +36,9 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 ![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/ffb1f6db-f436-4ac8-a705-379d92164b93)
 
-## Ads Consent Form **↓**
+## Consent Form **↓**
 
-![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/c5403e24-5640-46e4-a6b7-9e2b01f18f14)
-
-* **
-
-<details>
-<summary>Demo consent blocks</summary>
-  
-<li> For production:
-
-<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/49cdf1d4-8fbc-45bd-a963-ffdbb408520a" />
-   
-<li> For testing:
-
-<img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/3f065712-a2cc-416c-b1c5-8b1739ad0ca6" />
-    
-</details>
+![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/a05a5272-e8b1-4131-ad84-347c32717309)
 
 * **
 
