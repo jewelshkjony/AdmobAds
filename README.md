@@ -1,4 +1,4 @@
-# [PAID] AdmobAds Extension
+# [PAID] AdmobAds Extension 🔥
 A lightweight ads extension for you to monetize your apps with many types of ads.
 * **
 Hello guys, I've built Admob lightweight ads extension for you to monetize your apps with many types of ads. It's also support dynamic views for native ad. It's uses is very easy. Just put your ad unit ids to show your real ads, also you can show test ads. Simple, easy and very lightweight extension. You'll get next updates free once you purchased. This extension don't take any commission from you.
@@ -155,6 +155,8 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.5.0:</b> Updated User Messaging Platform SDK dependency to version 2.1.0.
+<br>• Added new `PublisherPrivacyPersonalizationState` method.
 <li> <b>22.4.0:</b> Ad inspector: Added SDK support for requesting and showing ads requested through Ad Inspector UI. (Note: The ad inspector UI will roll out this feature at a later date, requiring a minimum SDK version of 21.4.0.)
 <br>• Added new `QueryInfo` & `QueryInfoWith` method that takes an ad unit id.
 <br>• Enables initial testing of the Attribution Reporting Beta and Topics Beta privacy-preserving APIs. See the AdMob Privacy Sandbox on Android guide for more information.
@@ -186,11 +188,11 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 
 ## 📝 Extension specifications:
 <img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
-<b>⚙️ SDK Version:</b> 22.4.0\
+<b>⚙️ SDK Version:</b> 22.5.0\
 <b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> \
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 <b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
-<b>🌏 Updated On:</b> 26 September 2023 (GMT+06:00)\
+<b>🌏 Updated On:</b> 31 October 2023 (GMT+06:00)\
 <b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
