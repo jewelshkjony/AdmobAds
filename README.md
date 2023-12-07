@@ -6,7 +6,9 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 **Enabled optimized Sdk initialization & ad loading to improve the overall responsiveness of ads.**
 * **
 
-## Supported Mediation/Bidding
+<details>
+<summary>🤝 Supported Mediation</summary>
+
 <li> <b>Facebook</b> (Meta) - Bidding only
 <li> <b>IronSource</b>
 <li> <b>Fyber</b> (DT Exchange)
@@ -17,8 +19,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 <li> <b>Vungle</b>
 <li> <b>Tapjoy</b>
 <li> <b>Pangle</b>
-
->**Note:** *100% commission free extension.*
+</details>
 
 ### Multi Component Extension
 
@@ -36,7 +37,7 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 
 ![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/ffb1f6db-f436-4ac8-a705-379d92164b93)
 
-## Consent Form **↓**
+## Ads Consent Form **↓**
 
 ![image](https://github.com/jewelshkjony/AdmobAds/assets/75406851/a05a5272-e8b1-4131-ad84-347c32717309)
 
@@ -155,6 +156,8 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## ➤ Release Notes ↷
 
 <small>
+<li> <b>22.6.0:</b> Deprecated <del>SameAppKey</del> and renamed the method to <mark> PublisherFirstPartyId</mark>.
+<br> • Deprecated <del>AdStyle.Unknown</del> helper blocks.
 <li> <b>22.5.0:</b> Updated User Messaging Platform SDK dependency to version 2.1.0.
 <br>• Added new `PublisherPrivacyPersonalizationState` method.
 <li> <b>22.4.0:</b> Ad inspector: Added SDK support for requesting and showing ads requested through Ad Inspector UI. (Note: The ad inspector UI will roll out this feature at a later date, requiring a minimum SDK version of 21.4.0.)
@@ -165,6 +168,9 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 <li> <b>22.1.0:</b> Ad inspector: Enabled ability to trigger ad requests from the ad inspector UI on devices that don't have Google Play services.
 <li> <b>22.0.0:</b> This release is a MAJOR version update with several breaking changes.
 <br>Added <b>XML</b> layout support for native ad. Now you can design native ad using XML code.
+
+<details>
+<summary>See more notes...</summary>
 <li> <b>21.5.0:</b> <b>App Open Ads:</b> Deprecated load methods that accept an orientation input parameter and added new methods that don't take an orientation input. The new methods determine the orientation at request time, matching the behavior of other full-screen formats.
 <br><b>Mediation:</b> Added mediation support for app open ads.
 <li> <b>21.4.0:</b> Extend SDK support for showing banner ads and native ads requested through the ad inspector UI.
@@ -181,18 +187,20 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 <br>Added manifest flags to optimize initialization and ad loading.
 <br><b>Beta:</b> These APIs are in beta. The return values might change without an SDK release.
 <br>Added support for custom events in ad inspector.
+</details>
+
 </small>
 
 # 🧩 More extensions
 🔗 <a href="https://github.com/jewelshkjony/Extensions">See more extensions</a>
 
 ## 📝 Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.08 MB) \
-<b>⚙️ SDK Version:</b> 22.5.0\
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1 MB+) \
+<b>⚙️ SDK Version:</b> 22.6.0\
 <b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> \
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 <b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
-<b>🌏 Updated On:</b> 31 October 2023 (GMT+06:00)\
+<b>🌏 Updated On:</b> 07 December 2023 (GMT+06:00)\
 <b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
