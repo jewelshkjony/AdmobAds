@@ -206,7 +206,3 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 ## 📫 How to reach me ↓
 
 <a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
-
-## 💲 Payment Methods ↓
-
-❏ Binance  |  Crypto | Skrill | Wise | Pyypl | Xoom  | Paypal | UPI | JazzCash | bKash |  Nagad
