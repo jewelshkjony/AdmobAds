@@ -6,21 +6,6 @@ Hello guys, I've built Admob lightweight ads extension for you to monetize your 
 **Enabled optimized Sdk initialization & ad loading to improve the overall responsiveness of ads.**
 * **
 
-<details>
-<summary>🤝 Supported Mediation</summary>
-
-<li> <b>Facebook</b> (Meta) - Bidding only
-<li> <b>IronSource</b>
-<li> <b>Fyber</b> (DT Exchange)
-<li> <b>AdColony</b>
-<li> <b>Mintegral</b>
-<li> <b>Unity Ads</b>
-<li> <b>AppLovin</b>
-<li> <b>Vungle</b>
-<li> <b>Tapjoy</b>
-<li> <b>Pangle</b>
-</details>
-
 ### Multi Component Extension
 
 <img src="https://github.com/jewelshkjony/AdmobAds/assets/75406851/3dc7be51-1ea0-4356-8bc6-39f36b5fb448">
@@ -195,12 +180,12 @@ Rewarded interstitial is a new type of incentivized ad format that allows you to
 🔗 <a href="https://github.com/jewelshkjony/Extensions">See more extensions</a>
 
 ## 📝 Extension specifications:
-<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1 MB+) \
-<b>⚙️ SDK Version:</b> 22.6.0\
+<img src="https://github.com/jewelshkjony/AdmobAds/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.admobads.aix</a> (1.37 MB) \
+<b>⚙️ SDK Version:</b> 23.2.0\
 <b>🈸 Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdmobAds/raw/main/output/AdmobAds.apk">AdmobAds.apk</a> \
 ⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension" target="_blank">Terms & Conditions</a> \
 <b>🌏 Released On:</b> 24 June 2021 (GMT+06:00)\
-<b>🌏 Updated On:</b> 07 December 2023 (GMT+06:00)\
+<b>🌏 Updated On:</b> 01 July 202 (GMT+06:00)\
 <b>🤝 Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
